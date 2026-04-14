@@ -9,10 +9,17 @@
     "grip_width_mm": 62,
     "weight_g": 85,
     "price_usd": 29.99,
-    "amazon_asin": "",
+    "amazon_asin": "B07YN82X3B",
     "description": "A budget-friendly small gaming mouse with a classic egg shape. One of the most recommended entry points for small-handed gamers.",
-    "pros": ["Very affordable", "Light weight at 85g", "Simple reliable shape"],
-    "cons": ["Braided cable can cause drag", "No side buttons on right"],
+    "pros": [
+      "Very affordable",
+      "Light weight at 85g",
+      "Simple reliable shape"
+    ],
+    "cons": [
+      "Braided cable can cause drag",
+      "No side buttons on right"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -26,10 +33,17 @@
     "grip_width_mm": 54,
     "weight_g": 61,
     "price_usd": 29.99,
-    "amazon_asin": "",
+    "amazon_asin": "B084RPZD6T",
     "description": "An ultra-light ambidextrous mouse built specifically for small hands. The narrow grip width and low weight make it a top pick for fingertip and claw grip users.",
-    "pros": ["Ultra-light at 61g", "Narrow grip suits small palms", "Excellent optical sensor"],
-    "cons": ["Low lift-off distance can be finicky", "Cable quality is average"],
+    "pros": [
+      "Ultra-light at 61g",
+      "Narrow grip suits small palms",
+      "Excellent optical sensor"
+    ],
+    "cons": [
+      "Low lift-off distance can be finicky",
+      "Cable quality is average"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -43,10 +57,17 @@
     "grip_width_mm": 56,
     "weight_g": 60,
     "price_usd": 39.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0915QG1Q6",
     "description": "A compact wireless mouse that runs on a single AA or AAA battery. Popular among small-hand users who want wireless freedom without the premium price.",
-    "pros": ["Wireless with long battery life", "Compact travel-friendly shape", "Works with AA or AAA"],
-    "cons": ["No built-in rechargeable battery", "Scroll wheel feels cheap"],
+    "pros": [
+      "Wireless with long battery life",
+      "Compact travel-friendly shape",
+      "Works with AA or AAA"
+    ],
+    "cons": [
+      "No built-in rechargeable battery",
+      "Scroll wheel feels cheap"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -60,10 +81,17 @@
     "grip_width_mm": 56,
     "weight_g": 69,
     "price_usd": 69.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09W2Q611V",
     "description": "The smaller version of Zowie's S-series, designed for competitive FPS players. The subtle hump placement supports claw grip for hands under 18cm.",
-    "pros": ["Great for claw grip", "Paracord-style cable", "No software needed"],
-    "cons": ["Premium price for its features", "No RGB lighting"],
+    "pros": [
+      "Great for claw grip",
+      "Paracord-style cable",
+      "No software needed"
+    ],
+    "cons": [
+      "Premium price for its features",
+      "No RGB lighting"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -77,10 +105,17 @@
     "grip_width_mm": 56,
     "weight_g": 68,
     "price_usd": 69.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09W2Q611W",
     "description": "The smallest in Zowie's ZA line with a high-back hump that pushes the palm forward. Works well for small hands that want palm or claw grip support.",
-    "pros": ["High hump supports palm contact", "Plug and play simplicity", "Durable build quality"],
-    "cons": ["No wireless option", "Scroll wheel steps feel stiff"],
+    "pros": [
+      "High hump supports palm contact",
+      "Plug and play simplicity",
+      "Durable build quality"
+    ],
+    "cons": [
+      "No wireless option",
+      "Scroll wheel steps feel stiff"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -94,10 +129,17 @@
     "grip_width_mm": 54,
     "weight_g": 58,
     "price_usd": 49.99,
-    "amazon_asin": "",
+    "amazon_asin": "B07V92B34B",
     "description": "A lightweight honeycomb mouse in a compact form factor. The flat profile and narrow width suit fingertip grip for smaller hands.",
-    "pros": ["Ultra-light honeycomb shell", "Flexible ascended cable", "Good value for weight class"],
-    "cons": ["Honeycomb holes collect dust", "Low profile may not suit palm grip"],
+    "pros": [
+      "Ultra-light honeycomb shell",
+      "Flexible ascended cable",
+      "Good value for weight class"
+    ],
+    "cons": [
+      "Honeycomb holes collect dust",
+      "Low profile may not suit palm grip"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -111,10 +153,17 @@
     "grip_width_mm": 58,
     "weight_g": 61,
     "price_usd": 49.99,
-    "amazon_asin": "",
+    "amazon_asin": "B082X7Y86C",
     "description": "An ergonomic right-handed mouse in a reduced size. Gives small hands the comfort of an ergo shape without the bulk of full-size mice.",
-    "pros": ["Ergonomic shape in small size", "Very light for ergo mouse", "Honeycomb weight reduction"],
-    "cons": ["Right-hand only", "Honeycomb design not for everyone"],
+    "pros": [
+      "Ergonomic shape in small size",
+      "Very light for ergo mouse",
+      "Honeycomb weight reduction"
+    ],
+    "cons": [
+      "Right-hand only",
+      "Honeycomb design not for everyone"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -128,10 +177,17 @@
     "grip_width_mm": 54,
     "weight_g": 52,
     "price_usd": 94.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0BF24248V",
     "description": "A premium wireless mouse designed from the ground up for small hands. The symmetrical shape and 52g weight make it a favorite among competitive players.",
-    "pros": ["52g wireless is remarkable", "Top-tier sensor and clicks", "Purpose-built for small hands"],
-    "cons": ["Expensive for a mouse", "Limited color options"],
+    "pros": [
+      "52g wireless is remarkable",
+      "Top-tier sensor and clicks",
+      "Purpose-built for small hands"
+    ],
+    "cons": [
+      "Expensive for a mouse",
+      "Limited color options"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -145,10 +201,17 @@
     "grip_width_mm": 57,
     "weight_g": 60,
     "price_usd": 159.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0C9Z14F57",
     "description": "A top-tier wireless gaming mouse that works for the upper range of small hands. At 60g wireless, it sets the standard for lightweight pro mice.",
-    "pros": ["60g wireless flagship", "Hero 2 sensor is best-in-class", "Long battery life"],
-    "cons": ["Pricey", "May be slightly large for hands under 16cm"],
+    "pros": [
+      "60g wireless flagship",
+      "Hero 2 sensor is best-in-class",
+      "Long battery life"
+    ],
+    "cons": [
+      "Pricey",
+      "May be slightly large for hands under 16cm"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -162,10 +225,17 @@
     "grip_width_mm": 57,
     "weight_g": 55,
     "price_usd": 99.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0C755J92J",
     "description": "A lighter, smaller take on the classic DeathAdder shape. Fits the upper end of small hands with its ergonomic right-hand design and 55g weight.",
-    "pros": ["Classic ergo shape refined", "55g is very light", "HyperSpeed wireless"],
-    "cons": ["Right-hand only", "Slightly wide for very small hands"],
+    "pros": [
+      "Classic ergo shape refined",
+      "55g is very light",
+      "HyperSpeed wireless"
+    ],
+    "cons": [
+      "Right-hand only",
+      "Slightly wide for very small hands"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -179,10 +249,17 @@
     "grip_width_mm": 56,
     "weight_g": 59,
     "price_usd": 79.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09V3KXJPB",
     "description": "A wireless egg-shaped mouse with a compact body that suits medium-small hands. Known for its no-frills approach and solid sensor performance.",
-    "pros": ["Clean symmetrical shape", "Wireless with low latency", "Solid build quality"],
-    "cons": ["Limited availability outside EU", "No RGB"],
+    "pros": [
+      "Clean symmetrical shape",
+      "Wireless with low latency",
+      "Solid build quality"
+    ],
+    "cons": [
+      "Limited availability outside EU",
+      "No RGB"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -196,10 +273,17 @@
     "grip_width_mm": 57,
     "weight_g": 70,
     "price_usd": 69.99,
-    "amazon_asin": "",
+    "amazon_asin": "B08KJQ5Q1H",
     "description": "A small ergonomic mouse from a brand co-founded by former Zowie engineers. The shape is tuned for palm-claw hybrid grip on smaller hands.",
-    "pros": ["Excellent ergo shape for small hands", "High-quality clicks", "No software required"],
-    "cons": ["Wired only", "Hard to find in stock"],
+    "pros": [
+      "Excellent ergo shape for small hands",
+      "High-quality clicks",
+      "No software required"
+    ],
+    "cons": [
+      "Wired only",
+      "Hard to find in stock"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -213,10 +297,17 @@
     "grip_width_mm": 59,
     "weight_g": 101,
     "price_usd": 29.99,
-    "amazon_asin": "",
+    "amazon_asin": "B085VY97YQ",
     "description": "A slim, quiet wireless mouse designed for portable use. The compact round shape fits easily in small hands and laptop bags.",
-    "pros": ["Silent clicks", "Bluetooth and USB receiver", "Affordable and portable"],
-    "cons": ["Not suited for gaming", "Flat shape may fatigue during long use"],
+    "pros": [
+      "Silent clicks",
+      "Bluetooth and USB receiver",
+      "Affordable and portable"
+    ],
+    "cons": [
+      "Not suited for gaming",
+      "Flat shape may fatigue during long use"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -230,10 +321,17 @@
     "grip_width_mm": 54,
     "weight_g": 125,
     "price_usd": 69.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09KY65V1H",
     "description": "A vertical ergonomic mouse explicitly designed for small-to-medium hands. Reduces wrist strain with a 57-degree angle and a compact footprint.",
-    "pros": ["Made for small hands specifically", "Reduces wrist pronation", "Quiet clicks"],
-    "cons": ["Takes time to adjust to vertical mice", "Heavier than flat mice"],
+    "pros": [
+      "Made for small hands specifically",
+      "Reduces wrist pronation",
+      "Quiet clicks"
+    ],
+    "cons": [
+      "Takes time to adjust to vertical mice",
+      "Heavier than flat mice"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -247,10 +345,17 @@
     "grip_width_mm": 56,
     "weight_g": 78,
     "price_usd": 34.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09N4K1X1X",
     "description": "A thin, flat Bluetooth mouse with a metal scroll wheel. The slim profile works well for small hands that prefer a low-profile grip.",
-    "pros": ["Sleek minimal design", "Bluetooth with Swift Pair", "Light and portable"],
-    "cons": ["Flat shape not ergonomic", "No USB receiver option"],
+    "pros": [
+      "Sleek minimal design",
+      "Bluetooth with Swift Pair",
+      "Light and portable"
+    ],
+    "cons": [
+      "Flat shape not ergonomic",
+      "No USB receiver option"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -264,10 +369,17 @@
     "grip_width_mm": 57,
     "weight_g": 99,
     "price_usd": 79.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0881YQ81C",
     "description": "Apple's signature multi-touch mouse with a low profile that suits smaller hands well. The touch surface replaces scroll wheels and supports gestures.",
-    "pros": ["Multi-touch gestures", "Seamless macOS integration", "Compact form factor"],
-    "cons": ["Lightning port on bottom for charging", "Not ergonomic for long sessions"],
+    "pros": [
+      "Multi-touch gestures",
+      "Seamless macOS integration",
+      "Compact form factor"
+    ],
+    "cons": [
+      "Lightning port on bottom for charging",
+      "Not ergonomic for long sessions"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -281,10 +393,17 @@
     "grip_width_mm": 55,
     "weight_g": 48,
     "price_usd": 89.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09QJ5Q5Q5",
     "description": "One of the lightest wireless gaming mice available at 48g. The compact egg shape is well-suited for fingertip grip on small hands.",
-    "pros": ["Extremely light at 48g", "Wireless with good battery", "Solid sensor performance"],
-    "cons": ["Build quality feels fragile", "Limited brand support"],
+    "pros": [
+      "Extremely light at 48g",
+      "Wireless with good battery",
+      "Solid sensor performance"
+    ],
+    "cons": [
+      "Build quality feels fragile",
+      "Limited brand support"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -298,10 +417,17 @@
     "grip_width_mm": 54,
     "weight_g": 49,
     "price_usd": 279.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09QJ5Q5Q6",
     "description": "The premium wireless version of the Viper Mini with magnesium alloy construction. At 49g wireless, it pushes the limits of lightweight mouse engineering.",
-    "pros": ["49g wireless magnesium build", "Top-tier sensor and switches", "Premium feel and finish"],
-    "cons": ["Very expensive", "Limited availability"],
+    "pros": [
+      "49g wireless magnesium build",
+      "Top-tier sensor and switches",
+      "Premium feel and finish"
+    ],
+    "cons": [
+      "Very expensive",
+      "Limited availability"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -315,10 +441,17 @@
     "grip_width_mm": 57,
     "weight_g": 59,
     "price_usd": 59.99,
-    "amazon_asin": "",
+    "amazon_asin": "B08KJQ5Q1J",
     "description": "A wireless ultralight mouse with a compact ambidextrous shape. Good middle ground between the Viper Mini size and slightly larger mice.",
-    "pros": ["Tri-mode connectivity", "59g wireless", "Reasonable price"],
-    "cons": ["Honeycomb shell", "Side buttons feel mushy"],
+    "pros": [
+      "Tri-mode connectivity",
+      "59g wireless",
+      "Reasonable price"
+    ],
+    "cons": [
+      "Honeycomb shell",
+      "Side buttons feel mushy"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -334,8 +467,15 @@
     "price_usd": 79.99,
     "amazon_asin": "",
     "description": "A compact wireless mouse with swappable rear shells that let you change the hump height. Gives small-hand users the ability to customize their grip feel.",
-    "pros": ["Swappable back shells", "Compact and lightweight", "Good wireless performance"],
-    "cons": ["Shell swap is a niche feature", "Build flex reported by some users"],
+    "pros": [
+      "Swappable back shells",
+      "Compact and lightweight",
+      "Good wireless performance"
+    ],
+    "cons": [
+      "Shell swap is a niche feature",
+      "Build flex reported by some users"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -349,10 +489,17 @@
     "grip_width_mm": null,
     "weight_g": 590,
     "price_usd": 109.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09V3KXJPB",
     "description": "A 60% mechanical keyboard with hot-swappable switches. The compact 60% layout reduces reach distance, which benefits users with shorter fingers.",
-    "pros": ["Hot-swap switches", "Compact 60% saves desk space", "PBT double-shot keycaps"],
-    "cons": ["No arrow keys without function layer", "Learning curve for layers"],
+    "pros": [
+      "Hot-swap switches",
+      "Compact 60% saves desk space",
+      "PBT double-shot keycaps"
+    ],
+    "cons": [
+      "No arrow keys without function layer",
+      "Learning curve for layers"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -366,10 +513,17 @@
     "grip_width_mm": null,
     "weight_g": 635,
     "price_usd": 89.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0915R8RYG",
     "description": "A wireless 60% mechanical keyboard that became a community favorite for its value. Bluetooth and USB-C connectivity with tap-function arrow keys.",
-    "pros": ["Bluetooth wireless", "Tap arrow keys on modifiers", "Strong community support"],
-    "cons": ["Bluetooth can be inconsistent", "Software is clunky"],
+    "pros": [
+      "Bluetooth wireless",
+      "Tap arrow keys on modifiers",
+      "Strong community support"
+    ],
+    "cons": [
+      "Bluetooth can be inconsistent",
+      "Software is clunky"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -383,10 +537,17 @@
     "grip_width_mm": null,
     "weight_g": 535,
     "price_usd": 69.99,
-    "amazon_asin": "",
+    "amazon_asin": "B07D74RGR4",
     "description": "A 65% wireless mechanical keyboard with arrow keys included. The compact layout keeps everything within easy reach for smaller hands.",
-    "pros": ["65% layout keeps arrow keys", "Bluetooth and USB-C", "Hot-swap option available"],
-    "cons": ["Tall profile needs wrist rest", "Mac layout may confuse Windows users"],
+    "pros": [
+      "65% layout keeps arrow keys",
+      "Bluetooth and USB-C",
+      "Hot-swap option available"
+    ],
+    "cons": [
+      "Tall profile needs wrist rest",
+      "Mac layout may confuse Windows users"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -400,10 +561,17 @@
     "grip_width_mm": null,
     "weight_g": 460,
     "price_usd": 89.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0B93R55P1",
     "description": "A wireless number pad for people who want a compact keyboard but still need numpad access. Place it on either side to reduce reach distance.",
-    "pros": ["Separate numpad gives layout flexibility", "Wireless with QMK/VIA", "Aluminum body"],
-    "cons": ["Extra cost on top of keyboard", "Another device to charge"],
+    "pros": [
+      "Separate numpad gives layout flexibility",
+      "Wireless with QMK/VIA",
+      "Aluminum body"
+    ],
+    "cons": [
+      "Extra cost on top of keyboard",
+      "Another device to charge"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -417,10 +585,17 @@
     "grip_width_mm": null,
     "weight_g": 540,
     "price_usd": 319.99,
-    "amazon_asin": "",
+    "amazon_asin": "B096MCR2Q7",
     "description": "A compact 60% Topre keyboard with silenced switches. The reduced layout and light 45g actuation force suit typists with smaller, lighter fingers.",
-    "pros": ["Topre switches feel amazing", "Ultra-compact layout", "Silenced key action"],
-    "cons": ["Very expensive", "Unusual layout takes adjustment"],
+    "pros": [
+      "Topre switches feel amazing",
+      "Ultra-compact layout",
+      "Silenced key action"
+    ],
+    "cons": [
+      "Very expensive",
+      "Unusual layout takes adjustment"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -434,10 +609,17 @@
     "grip_width_mm": null,
     "weight_g": 465,
     "price_usd": 109.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0B2SXJRYG",
     "description": "A low-profile 60% wireless keyboard that sits very close to the desk. The low height and short key travel reduce finger strain for small-handed typists.",
-    "pros": ["Ultra-thin low-profile design", "Tri-mode wireless", "No wrist rest needed"],
-    "cons": ["Low-profile switches feel different", "60% layout lacks arrow keys"],
+    "pros": [
+      "Ultra-thin low-profile design",
+      "Tri-mode wireless",
+      "No wrist rest needed"
+    ],
+    "cons": [
+      "Low-profile switches feel different",
+      "60% layout lacks arrow keys"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -451,10 +633,17 @@
     "grip_width_mm": null,
     "weight_g": 518,
     "price_usd": 119.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0B2SY7RBY",
     "description": "A low-profile 75% wireless keyboard that includes function row and arrow keys. Keeps a compact footprint while retaining keys most people need.",
-    "pros": ["75% has function row and arrows", "Low profile reduces wrist angle", "Good wireless range"],
-    "cons": ["Keycap options limited for low-profile", "Slightly pricey"],
+    "pros": [
+      "75% has function row and arrows",
+      "Low profile reduces wrist angle",
+      "Good wireless range"
+    ],
+    "cons": [
+      "Keycap options limited for low-profile",
+      "Slightly pricey"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -470,8 +659,15 @@
     "price_usd": 99.99,
     "amazon_asin": "",
     "description": "A 40% mechanical keyboard that eliminates the number row entirely. Forces heavy use of layers but puts every key within one key of home row.",
-    "pros": ["Minimal finger travel distance", "Extremely compact", "Metal case build quality"],
-    "cons": ["Steep learning curve", "Layers required for numbers and symbols"],
+    "pros": [
+      "Minimal finger travel distance",
+      "Extremely compact",
+      "Metal case build quality"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Layers required for numbers and symbols"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -485,10 +681,17 @@
     "grip_width_mm": null,
     "weight_g": 462,
     "price_usd": 79.99,
-    "amazon_asin": "",
+    "amazon_asin": "B07RYZXNDW",
     "description": "A 60% gaming keyboard with Razer's optical switches. The compact size frees up mouse space and keeps all keys close for small-hand gamers.",
-    "pros": ["Fast optical switches", "Compact 60% frees mouse space", "Detachable USB-C cable"],
-    "cons": ["Razer software required for full config", "No wireless option"],
+    "pros": [
+      "Fast optical switches",
+      "Compact 60% frees mouse space",
+      "Detachable USB-C cable"
+    ],
+    "cons": [
+      "Razer software required for full config",
+      "No wireless option"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -504,8 +707,15 @@
     "price_usd": 174.99,
     "amazon_asin": "",
     "description": "A 60% keyboard with analog hall-effect switches that allow adjustable actuation points. Small-hand users can set a very short actuation for lighter key presses.",
-    "pros": ["Adjustable actuation depth", "Rapid Trigger for gaming", "Compact 60% layout"],
-    "cons": ["Wired only", "Premium price"],
+    "pros": [
+      "Adjustable actuation depth",
+      "Rapid Trigger for gaming",
+      "Compact 60% layout"
+    ],
+    "cons": [
+      "Wired only",
+      "Premium price"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -518,11 +728,18 @@
     "hand_length_cm_max": 20.0,
     "grip_width_mm": null,
     "weight_g": 250,
-    "price_usd": 80.00,
+    "price_usd": 80.0,
     "amazon_asin": "",
     "description": "A split columnar 42-key keyboard kit. Each half can be positioned at shoulder width, and the column-stagger layout follows natural finger reach patterns.",
-    "pros": ["Split design eliminates ulnar deviation", "Column stagger matches finger lengths", "Fully programmable with QMK"],
-    "cons": ["Requires soldering or build kit", "Major learning curve for layout"],
+    "pros": [
+      "Split design eliminates ulnar deviation",
+      "Column stagger matches finger lengths",
+      "Fully programmable with QMK"
+    ],
+    "cons": [
+      "Requires soldering or build kit",
+      "Major learning curve for layout"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -535,11 +752,18 @@
     "hand_length_cm_max": 18.0,
     "grip_width_mm": null,
     "weight_g": 120,
-    "price_usd": 40.00,
+    "price_usd": 40.0,
     "amazon_asin": "",
     "description": "A minimal 34-key split keyboard designed for small hands. With only two thumb keys per side and aggressive column stagger, finger travel is minimal.",
-    "pros": ["Ultra-minimal 34 keys", "Very affordable kit", "Designed for small hands specifically"],
-    "cons": ["Requires extensive layer configuration", "DIY build only"],
+    "pros": [
+      "Ultra-minimal 34 keys",
+      "Very affordable kit",
+      "Designed for small hands specifically"
+    ],
+    "cons": [
+      "Requires extensive layer configuration",
+      "DIY build only"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -555,8 +779,15 @@
     "price_usd": 99.99,
     "amazon_asin": "",
     "description": "Apple's compact wireless keyboard with scissor switches and low-profile keys. The short key travel and light actuation work well for small fingers.",
-    "pros": ["Very thin and portable", "Low-profile reduces strain", "Seamless Mac integration"],
-    "cons": ["Lightning charging on older models", "Not mechanical"],
+    "pros": [
+      "Very thin and portable",
+      "Low-profile reduces strain",
+      "Seamless Mac integration"
+    ],
+    "cons": [
+      "Lightning charging on older models",
+      "Not mechanical"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -572,8 +803,15 @@
     "price_usd": 79.99,
     "amazon_asin": "",
     "description": "A compact wireless keyboard without the numpad. The reduced width brings the mouse closer, reducing shoulder strain for small-framed users.",
-    "pros": ["Backlit keys with ambient sensor", "Multi-device Bluetooth", "Comfortable key profile"],
-    "cons": ["Non-mechanical feel", "No adjustable tilt legs"],
+    "pros": [
+      "Backlit keys with ambient sensor",
+      "Multi-device Bluetooth",
+      "Comfortable key profile"
+    ],
+    "cons": [
+      "Non-mechanical feel",
+      "No adjustable tilt legs"
+    ],
     "best_for": "office",
     "image": ""
   },
@@ -589,8 +827,15 @@
     "price_usd": 49.99,
     "amazon_asin": "",
     "description": "A budget-friendly 60% wireless mechanical keyboard with tri-mode connectivity. One of the most affordable ways to try a compact layout.",
-    "pros": ["Very affordable for wireless mech", "Tri-mode Bluetooth/2.4G/wired", "Hot-swappable switches"],
-    "cons": ["Software is Windows-only", "Stabilizers rattle on stock"],
+    "pros": [
+      "Very affordable for wireless mech",
+      "Tri-mode Bluetooth/2.4G/wired",
+      "Hot-swappable switches"
+    ],
+    "cons": [
+      "Software is Windows-only",
+      "Stabilizers rattle on stock"
+    ],
     "best_for": "gaming",
     "image": ""
   },
@@ -603,11 +848,18 @@
     "hand_length_cm_max": 18.0,
     "grip_width_mm": 10,
     "weight_g": 14,
-    "price_usd": 5.50,
+    "price_usd": 5.5,
     "amazon_asin": "",
     "description": "A mechanical pencil with a thin knurled grip and shake mechanism for lead advance. The 0.3mm lead and slim barrel suit precise writing with small hands.",
-    "pros": ["Shake to advance lead", "Thin knurled metal grip", "Built-in eraser under cap"],
-    "cons": ["0.3mm lead breaks easily with pressure", "Shake mechanism can be distracting"],
+    "pros": [
+      "Shake to advance lead",
+      "Thin knurled metal grip",
+      "Built-in eraser under cap"
+    ],
+    "cons": [
+      "0.3mm lead breaks easily with pressure",
+      "Shake mechanism can be distracting"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -620,11 +872,18 @@
     "hand_length_cm_max": 18.0,
     "grip_width_mm": 9,
     "weight_g": 10,
-    "price_usd": 3.50,
+    "price_usd": 3.5,
     "amazon_asin": "",
     "description": "A fine-point gel pen with a thin barrel that requires minimal grip force. The 0.25mm tip produces precise lines suited to small handwriting.",
-    "pros": ["Ultra-fine 0.25mm tip", "Thin lightweight barrel", "Smooth gel ink flow"],
-    "cons": ["Ink dries slowly on glossy paper", "Tip is fragile"],
+    "pros": [
+      "Ultra-fine 0.25mm tip",
+      "Thin lightweight barrel",
+      "Smooth gel ink flow"
+    ],
+    "cons": [
+      "Ink dries slowly on glossy paper",
+      "Tip is fragile"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -637,11 +896,18 @@
     "hand_length_cm_max": 18.0,
     "grip_width_mm": 10,
     "weight_g": 11,
-    "price_usd": 3.00,
+    "price_usd": 3.0,
     "amazon_asin": "",
     "description": "A quick-drying gel pen with a slim body and needle-tip. The low grip diameter works well for smaller fingers that struggle with thick pens.",
-    "pros": ["Fast-drying ink", "Slim barrel", "Retractable with clip"],
-    "cons": ["Grip section can get slippery", "Ink runs out quickly"],
+    "pros": [
+      "Fast-drying ink",
+      "Slim barrel",
+      "Retractable with clip"
+    ],
+    "cons": [
+      "Grip section can get slippery",
+      "Ink runs out quickly"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -654,11 +920,18 @@
     "hand_length_cm_max": 17.0,
     "grip_width_mm": 9,
     "weight_g": 9,
-    "price_usd": 4.00,
+    "price_usd": 4.0,
     "amazon_asin": "",
     "description": "A compact ballpoint pen that is shorter and thinner than standard pens. The reduced length suits small hands that find full-size pens unwieldy.",
-    "pros": ["Shorter than standard pens", "Smooth Jetstream ink", "Very lightweight"],
-    "cons": ["Short body may feel cramped for some", "Limited refill colors"],
+    "pros": [
+      "Shorter than standard pens",
+      "Smooth Jetstream ink",
+      "Very lightweight"
+    ],
+    "cons": [
+      "Short body may feel cramped for some",
+      "Limited refill colors"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -671,11 +944,18 @@
     "hand_length_cm_max": 18.0,
     "grip_width_mm": 10,
     "weight_g": 11,
-    "price_usd": 2.50,
+    "price_usd": 2.5,
     "amazon_asin": "",
     "description": "A popular gel pen with a rubber grip and fine 0.3mm tip. The slim body and low price make it a staple for small-hand writers in Japan and worldwide.",
-    "pros": ["Affordable", "Wide color range", "Comfortable rubber grip"],
-    "cons": ["Clip can break with rough use", "Ink smears if you're left-handed"],
+    "pros": [
+      "Affordable",
+      "Wide color range",
+      "Comfortable rubber grip"
+    ],
+    "cons": [
+      "Clip can break with rough use",
+      "Ink smears if you're left-handed"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -688,11 +968,18 @@
     "hand_length_cm_max": 17.0,
     "grip_width_mm": 10,
     "weight_g": 11,
-    "price_usd": 28.00,
-    "amazon_asin": "",
+    "price_usd": 28.0,
+    "amazon_asin": "B0000685U4",
     "description": "A pocket fountain pen that is only 10.5cm capped. Posts to full length for writing but stores short, making it a favorite for people who find standard pens too long.",
-    "pros": ["Ultra-compact when capped", "Classic design", "Available in many colors"],
-    "cons": ["Uses proprietary cartridges", "Cap posts loosely"],
+    "pros": [
+      "Ultra-compact when capped",
+      "Classic design",
+      "Available in many colors"
+    ],
+    "cons": [
+      "Uses proprietary cartridges",
+      "Cap posts loosely"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -705,11 +992,18 @@
     "hand_length_cm_max": 18.0,
     "grip_width_mm": 11,
     "weight_g": 16,
-    "price_usd": 32.00,
-    "amazon_asin": "",
+    "price_usd": 32.0,
+    "amazon_asin": "B000WJTI5G",
     "description": "A lightweight fountain pen with a triangular grip section that guides finger placement. The grip shape helps smaller hands hold the pen correctly without strain.",
-    "pros": ["Triangular grip guides fingers", "Lightweight plastic body", "Easy to refill"],
-    "cons": ["Grip shape forces one hold style", "EF nib can feel scratchy"],
+    "pros": [
+      "Triangular grip guides fingers",
+      "Lightweight plastic body",
+      "Easy to refill"
+    ],
+    "cons": [
+      "Grip shape forces one hold style",
+      "EF nib can feel scratchy"
+    ],
     "best_for": "writing",
     "image": ""
   },
@@ -723,10 +1017,17 @@
     "grip_width_mm": 9,
     "weight_g": 20,
     "price_usd": 79.99,
-    "amazon_asin": "",
+    "amazon_asin": "B09G9HD7J7",
     "description": "Apple's entry-level stylus for iPad with USB-C charging. The slim barrel and light weight make it comfortable for small hands during drawing sessions.",
-    "pros": ["Thin and lightweight", "USB-C charging", "Good palm rejection"],
-    "cons": ["No pressure sensitivity", "Only works with iPad"],
+    "pros": [
+      "Thin and lightweight",
+      "USB-C charging",
+      "Good palm rejection"
+    ],
+    "cons": [
+      "No pressure sensitivity",
+      "Only works with iPad"
+    ],
     "best_for": "drawing",
     "image": ""
   },
@@ -740,10 +1041,17 @@
     "grip_width_mm": 8,
     "weight_g": 6,
     "price_usd": 49.99,
-    "amazon_asin": "",
+    "amazon_asin": "B0B7R6SNJF",
     "description": "A slim, short stylus designed for Samsung's Fold phones. Its small size makes it one of the few styluses genuinely built for compact use.",
-    "pros": ["Very small and light", "4096 levels of pressure", "Works with Fold series"],
-    "cons": ["Too small for extended drawing", "Limited device compatibility"],
+    "pros": [
+      "Very small and light",
+      "4096 levels of pressure",
+      "Works with Fold series"
+    ],
+    "cons": [
+      "Too small for extended drawing",
+      "Limited device compatibility"
+    ],
     "best_for": "drawing",
     "image": ""
   },
@@ -759,8 +1067,15 @@
     "price_usd": 29.99,
     "amazon_asin": "",
     "description": "The standard pen for Wacom One tablets with a thin plastic body. Lighter and thinner than Wacom's Pro pens, which suits smaller hands for casual drawing.",
-    "pros": ["Very lightweight", "No battery needed", "Affordable replacement pen"],
-    "cons": ["Fewer pressure levels than Pro pen", "Plastic body feels cheap"],
+    "pros": [
+      "Very lightweight",
+      "No battery needed",
+      "Affordable replacement pen"
+    ],
+    "cons": [
+      "Fewer pressure levels than Pro pen",
+      "Plastic body feels cheap"
+    ],
     "best_for": "drawing",
     "image": ""
   },
@@ -774,10 +1089,17 @@
     "grip_width_mm": 18,
     "weight_g": 32,
     "price_usd": 7.99,
-    "amazon_asin": "",
+    "amazon_asin": "B00002N7VU",
     "description": "Spring-loaded craft scissors with small finger loops and a micro-tip blade. The spring action reduces hand fatigue during repetitive cuts.",
-    "pros": ["Spring-loaded reduces fatigue", "Precise micro-tip for detail work", "Small finger loops"],
-    "cons": ["Not for heavy materials", "Spring can weaken over time"],
+    "pros": [
+      "Spring-loaded reduces fatigue",
+      "Precise micro-tip for detail work",
+      "Small finger loops"
+    ],
+    "cons": [
+      "Not for heavy materials",
+      "Spring can weaken over time"
+    ],
     "best_for": "crafting",
     "image": ""
   },
@@ -793,8 +1115,15 @@
     "price_usd": 14.99,
     "amazon_asin": "",
     "description": "A compact precision screwdriver with a short handle and 16 bits. The small handle diameter gives better control for hands that find full-size drivers too bulky.",
-    "pros": ["Compact short handle", "16 precision bits included", "Good torque for small hands"],
-    "cons": ["Limited to small screws", "Bit storage cap is loose"],
+    "pros": [
+      "Compact short handle",
+      "16 precision bits included",
+      "Good torque for small hands"
+    ],
+    "cons": [
+      "Limited to small screws",
+      "Bit storage cap is loose"
+    ],
     "best_for": "repair",
     "image": ""
   },
@@ -808,10 +1137,17 @@
     "grip_width_mm": 10,
     "weight_g": 19,
     "price_usd": 8.99,
-    "amazon_asin": "",
+    "amazon_asin": "B00002N7V4",
     "description": "A slim craft knife with a pen-like grip diameter. Holds like a pencil for precise cutting work, which is natural for small hands.",
-    "pros": ["Pen-like grip for precision", "Replaceable blades", "Very lightweight"],
-    "cons": ["Blade cap is easy to lose", "Not for heavy-duty cutting"],
+    "pros": [
+      "Pen-like grip for precision",
+      "Replaceable blades",
+      "Very lightweight"
+    ],
+    "cons": [
+      "Blade cap is easy to lose",
+      "Not for heavy-duty cutting"
+    ],
     "best_for": "crafting",
     "image": ""
   },
@@ -825,10 +1161,17 @@
     "grip_width_mm": 22,
     "weight_g": 84,
     "price_usd": 29.99,
-    "amazon_asin": "",
+    "amazon_asin": "B004SRIE5K",
     "description": "A 100mm water pump plier that fits in a pocket. Full Knipex quality in a size that works for hands too small for standard pliers.",
-    "pros": ["Full Knipex quality at mini size", "Fits in pocket or small toolkits", "Surprisingly strong grip"],
-    "cons": ["Limited to small fasteners", "Expensive for the size"],
+    "pros": [
+      "Full Knipex quality at mini size",
+      "Fits in pocket or small toolkits",
+      "Surprisingly strong grip"
+    ],
+    "cons": [
+      "Limited to small fasteners",
+      "Expensive for the size"
+    ],
     "best_for": "repair",
     "image": ""
   },
@@ -842,10 +1185,17 @@
     "grip_width_mm": 15,
     "weight_g": 51,
     "price_usd": 34.95,
-    "amazon_asin": "",
+    "amazon_asin": "B00061J3VQ",
     "description": "A keychain-size multi-tool with spring-action scissors, knife, tweezers, and 7 other tools. The small frame works naturally in small hands.",
-    "pros": ["10 tools in keychain size", "Spring-action scissors", "25-year warranty"],
-    "cons": ["Scissors are small for extended use", "Knife blade is short"],
+    "pros": [
+      "10 tools in keychain size",
+      "Spring-action scissors",
+      "25-year warranty"
+    ],
+    "cons": [
+      "Scissors are small for extended use",
+      "Knife blade is short"
+    ],
     "best_for": "everyday carry",
     "image": ""
   }
