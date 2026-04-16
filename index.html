@@ -19,63 +19,63 @@
 </head>
 <body>
 <nav class="nav">
-  <a href="index.html" class="nav-brand">Small<span>Hands</span></a>
-  <div class="nav-links">
-    <a href="database.html">Database</a>
-    <a href="#">Guides</a>
-    <a href="#">About</a>
-  </div>
+ <a href="index.html" class="nav-brand">Small<span>Hands</span></a>
+ <div class="nav-links">
+ <a href="database.html">Database</a>
+ <a href="#">Guides</a>
+ <a href="#">About</a>
+ </div>
 </nav>
 
 <section class="hero">
-  <h1>Tech that fits your hands, not the other way around.</h1>
-  <p>The first database of mice, keyboards, pens, and tools measured and rated specifically for people with small hands.</p>
-  <a href="database.html" class="btn">Browse the Database</a>
+ <h1>Tech that fits your hands, not the other way around.</h1>
+ <p>The first database of mice, keyboards, pens, and tools measured and rated specifically for people with small hands.</p>
+ <a href="database.html" class="btn">Browse the Database</a>
 </section>
 
 <section class="section">
-  <h2 class="section-title">The Problem</h2>
-  <p class="section-sub">Standard tech is built for average-to-large hands. If yours are smaller, you already know the struggle.</p>
-  <div class="problems" id="problems"></div>
+ <h2 class="section-title">The Problem</h2>
+ <p class="section-sub">Standard tech is built for average-to-large hands. If yours are smaller, you already know the struggle.</p>
+ <div class="problems" id="problems"></div>
 </section>
 
 <div class="stats" id="stats"></div>
 
 <section class="section">
-  <h2 class="section-title">How It Works</h2>
-  <p class="section-sub">Finding the right product takes three steps.</p>
-  <div class="steps" id="steps"></div>
+ <h2 class="section-title">How It Works</h2>
+ <p class="section-sub">Finding the right product takes three steps.</p>
+ <div class="steps" id="steps"></div>
 </section>
 
 <section class="cta">
-  <h2>Stop guessing. Start finding.</h2>
-  <a href="database.html" class="btn">Explore Products</a>
+ <h2>Stop guessing. Start finding.</h2>
+ <a href="database.html" class="btn">Explore Products</a>
 </section>
 
 <footer class="footer">
-  <p>SmallHandsTech. Built for hands that never fit the standard.</p>
+ <p>SmallHandsTech. Built for hands that never fit the standard.</p>
 </footer>
 
 <script>
 const problems=[
-  {icon:"\uD83D\uDDB1\uFE0F",title:"Mice are too big",text:"Most mice assume 18cm+ hands. If yours are smaller, you end up with wrist pain and poor grip."},
-  {icon:"\u2328\uFE0F",title:"Keyboards too wide",text:"Full-size keyboards force your arms apart. Compact layouts keep everything within reach."},
-  {icon:"\uD83D\uDCCF",title:"Nobody measures",text:"Reviews rarely mention hand size. We put measurements front and center so you can compare before buying."}
+ {icon:"\uD83D\uDDB1\uFE0F",title:"Mice are too big",text:"Most mice assume 18cm+ hands. If yours are smaller, you end up with wrist pain and poor grip."},
+ {icon:"\u2328\uFE0F",title:"Keyboards too wide",text:"Full-size keyboards force your arms apart. Compact layouts keep everything within reach."},
+ {icon:"\uD83D\uDCCF",title:"Nobody measures",text:"Reviews rarely mention hand size. We put measurements front and center so you can compare before buying."}
 ];
 document.getElementById("problems").innerHTML=problems.map(p=>`<div class="problem-card"><div class="icon">${p.icon}</div><h3>${p.title}</h3><p>${p.text}</p></div>`).join("");
 
 const stats=[
-  {num:"50+",label:"Products"},
-  {num:"4",label:"Categories"},
-  {num:"14\u201320cm",label:"Hand Sizes Covered"},
-  {num:"100%",label:"Free Forever"}
+ {num:"50+",label:"Products"},
+ {num:"4",label:"Categories"},
+ {num:"14\u201320cm",label:"Hand Sizes Covered"},
+ {num:"100%",label:"Free Forever"}
 ];
 document.getElementById("stats").innerHTML=stats.map(s=>`<div class="stat-item"><div class="num">${s.num}</div><div class="label">${s.label}</div></div>`).join("");
 
 const steps=[
-  {title:"Measure your hand",text:"Place your hand flat on a ruler from the base of your palm to the tip of your middle finger."},
-  {title:"Filter by category",text:"Choose mice, keyboards, pens, or tools. Filter by hand size, price, or weight."},
-  {title:"Pick the right fit",text:"Read pros, cons, and what each product is best for. Make an informed choice."}
+ {title:"Measure your hand",text:"Place your hand flat on a ruler from the base of your palm to the tip of your middle finger."},
+ {title:"Filter by category",text:"Choose mice, keyboards, pens, or tools. Filter by hand size, price, or weight."},
+ {title:"Pick the right fit",text:"Read pros, cons, and what each product is best for. Make an informed choice."}
 ];
 document.getElementById("steps").innerHTML=steps.map(s=>`<div class="step"><div><h3>${s.title}</h3><p>${s.text}</p></div></div>`).join("");
 </script>
